@@ -3,8 +3,10 @@ Each space-delimited sequence of characters defines a word.
 
 Implement a function that reverses the order of the words in the array in the most efficient manner.
 
-Logic
+Logic:
+
 function reverseArr(arr):
+
     # reverse all characters:
     n = arr.length
     newarr = null
