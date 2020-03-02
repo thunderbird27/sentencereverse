@@ -1,10 +1,13 @@
+# sentencereverse
 Given an array of characters arr that consists of sequences of characters separated by space characters. 
 Each space-delimited sequence of characters defines a word.
 
 Implement a function that reverses the order of the words in the array in the most efficient manner.
 
-Logic
+Logic:
+
 function reverseArr(arr):
+
     # reverse all characters:
     n = arr.length
     newarr = null
@@ -16,5 +19,5 @@ function reverseArr(arr):
     return arr
 
 Implemented in: C, C++, Go and Python
-# sentencereverse
+
  
