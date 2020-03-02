@@ -1,3 +1,4 @@
+# sentencereverse
 Given an array of characters arr that consists of sequences of characters separated by space characters. 
 Each space-delimited sequence of characters defines a word.
 
@@ -18,5 +19,5 @@ function reverseArr(arr):
     return arr
 
 Implemented in: C, C++, Go and Python
-# sentencereverse
+
  
